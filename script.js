@@ -78,4 +78,5 @@ function filtrarPorCategoria(filtro){
     }
 }
 
-console.log(urubu);
+// variável que não existe, para testar eslint
+// console.log(flamengo);
