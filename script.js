@@ -77,3 +77,5 @@ function filtrarPorCategoria(filtro){
         }
     }
 }
+
+console.log(urubu);
