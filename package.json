@@ -7,12 +7,15 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "api-local": "json-server --watch  backend/videos.json",
+    "api-local": "json-server --watch backend/videos.json",
     "check-code": "eslint ."
   },
   "devDependencies": {
     "vite": "^4.4.5",
-    "eslint": "^8.56.0",
+    "eslint": "^8.52.0",
     "json-server": "^0.17.4"
+  },
+  "dependencies": {
+    "axios": "1.6.0"
   }
 }
